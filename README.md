@@ -1,17 +1,37 @@
-### Quick Start
+Birthday list 
+==========
 
-Fork this repository to your github account and clone it to your machine. Then install the dependencies:
-```bash
-> git clone https://github.com/makersacademy/birthdays.git
-> cd birthdays
-> bundle
 ```
+               .::,
+        .::,  ::():: .::,
+       ::()::  '|\` ::()::
+        '/|`____||___'|\`
+        _||'::, ||.::,||._
+      ,' ||:():: ::():||  `.
+     |     '|\`   '/|`      |
+     |      ||     ||       |
+     |`._   ||     ||   _.-'|
+     |`._`-.,-._____.-.'_.-'|
+     |   `-/\  `. .'  /\    |
+     |`-._/  `--( )--'  \.-'|
+      `._ `-._.-/|\-._.-'_.'
+         `-.__.' | `._.-'
+             /,'\| . \
+                 |/ `.\
 
-### Instructions
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=events/birthday
 
-- Test-drive an implementation of the requirements
-- Make sure your code is [linted](https://github.com/rubocop-hq/rubocop)
-- [Open a PR](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) when you've finished
+```
+------------------------------------------------
+
+
+### Summary
+This is an exercise I did for Makers Academy, during the first week, to learn RSpec.
+it was particularly useful to learn to use the Date and Time classes
+It's an IRB app I'm working on, it can store a list of birthdays, and check who's birthday is today and how old is the person celebrating their birthday.
 
 ### Requirements
 
@@ -29,6 +49,6 @@ More requirements:
 - https://github.com/makersacademy/course/blob/master/pills/tdd.md
 - https://github.com/makersacademy/course/blob/master/pills/tdd_quality_discussion.md
 
-### Mocking
+### ASCII Art from:
 
-- https://relishapp.com/rspec/rspec-mocks/docs/basics/test-doubles
+- https://asciiart.website/index.php?art=events/birthday
